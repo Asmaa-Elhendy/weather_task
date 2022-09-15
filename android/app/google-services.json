@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030079541459",
+    "project_id": "weather-task-63fdc",
+    "storage_bucket": "weather-task-63fdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030079541459:android:8be9ad889ccc626ebee426",
+        "android_client_info": {
+          "package_name": "com.example.weather_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030079541459-o3f9l1jipmq3s02b0kfssqdsdk5rpllc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASN-0dBrU3Zamb133OdgrHC_uXyJgS9qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030079541459-o3f9l1jipmq3s02b0kfssqdsdk5rpllc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
