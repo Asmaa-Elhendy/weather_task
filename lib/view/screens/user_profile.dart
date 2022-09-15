@@ -34,7 +34,7 @@ setState(() {
 }
 String lat='';
 String long='';
-final localstoarage=LocalStore();
+ final localstoarage=LocalStore();
 final getstorage=GetStorage();
   @override
 

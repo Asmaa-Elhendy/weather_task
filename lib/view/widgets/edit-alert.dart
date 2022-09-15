@@ -28,7 +28,7 @@ Future<void> showMyDialog(context,String label,IconData iconData,TextEditingCont
 
               final user= AuthenticationHelper().user;
               await user?.updateEmail(controller.text);
-              Navigator.pop(context);g
+              Navigator.pop(context);
 
             }else if (label=='password'){
 
